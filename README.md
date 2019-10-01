@@ -1,7 +1,7 @@
 #  Biometric Automobile Segurity
-    Seguridad en tus manos!
-[enter image description here](https://lh3.googleusercontent.com/otLT6SQBuzojOredHd_I9K3SgUBj-6RlLRK8FEic1rPtFrkaAeeCjWGyj_AMZ6_Oexz86z7qzykw "logo")
-    
+    Seguridad en tus manos
+
+![enter image description here](https://lh3.googleusercontent.com/K_KGBGbVXRLy1DH-0K_MFpCOUpi8JA8AbvNB2QDgevPq2_zZItb82akj8ClOTodc6oSMRb0SlXgP "logo")
 
 # MISION
 
@@ -41,3 +41,4 @@ Se pretende brindar seguridad a todo tipo de vehículos ya sean públicos o priv
 Es crear y adaptar un producto exclusivo biométrico de acceso dactilar e ocular con afinidad para permitir el acceso/ingreso al vehículo , encendido y proporcionar alertas si este fuera a ser manipulado sin consentimiento.
 
 ![enter image description here](https://lh3.googleusercontent.com/QFf07ai9cui3BO68A5coVWPm7qDnCr4zxGQjbaVFS5EwwK1PwhceDnv0oT6MJl5XsKea7gm-rqMb "JUS")
+
